@@ -1,0 +1,119 @@
+Product Id,Product Name,Category Id,Category Name,Department Id,Department Name,Product Image
+1360,Smart watch ,1,Watches & Trackers,10,Technology,http://images.acmesports.sports/Smart+watch 
+1349,Web Camera,2,Cameras & Computers,10,Technology,http://images.acmesports.sports/Web+Camera
+1351,Dell Laptop,2,Cameras & Computers,10,Technology,http://images.acmesports.sports/Dell+Laptop
+1352,Industrial consumer electronics,2,Cameras & Computers,10,Technology,http://images.acmesports.sports/Industrial+consumer+electronics
+306,Polar FT4 Heart Rate Monitor,1,Watches & Trackers,10,Technology,http://images.acmesports.sports/Polar+FT4+Heart+Rate+Monitor
+203,GoPro HERO3+ Black Edition Camera,2,Cameras & Computers,10,Technology,http://images.acmesports.sports/GoPro+HERO3%2B+Black+Edition+Camera
+305,Mio ALPHA Heart Rate Monitor/Sport Watch,1,Watches & Trackers,10,Technology,http://images.acmesports.sports/Mio+ALPHA+Heart+Rate+Monitor%2FSport+Watch
+311,Polar Loop Activity Tracker,1,Watches & Trackers,10,Technology,http://images.acmesports.sports/Polar+Loop+Activity+Tracker
+303,Garmin Forerunner 910XT GPS Watch,1,Watches & Trackers,10,Technology,http://images.acmesports.sports/Garmin+Forerunner+910XT+GPS+Watch
+845,Garmin Approach S4 Golf GPS Watch,1,Watches & Trackers,10,Technology,http://images.acmesports.sports/Garmin+Approach+S4+Golf+GPS+Watch
+607,Garmin Approach S3 Golf GPS Watch,1,Watches & Trackers,10,Technology,http://images.acmesports.sports/Garmin+Approach+S3+Golf+GPS+Watch
+295,Fitbit The One Wireless Activity & Sleep Trac,1,Watches & Trackers,10,Technology,http://images.acmesports.sports/Fitbit+The+One+Wireless+Activity+%26+Sleep+Tracker
+858,GolfBuddy VT3 GPS Watch,1,Watches & Trackers,10,Technology,http://images.acmesports.sports/GolfBuddy+VT3+GPS+Watch
+860,Bushnell Pro X7 Jolt Slope Rangefinder,1,Watches & Trackers,10,Technology,http://images.acmesports.sports/Bushnell+Pro+X7+Jolt+Slope+Rangefinder
+365,Perfect Fitness Perfect Rip Deck,4,Strength Training,2,Fitness,http://images.acmesports.sports/Perfect+Fitness+Perfect+Rip+Deck
+60,SOLE E25 Elliptical,3,Cardio Equipment,2,Fitness,http://images.acmesports.sports/SOLE+E25+Elliptical
+24,Elevation Training Mask 2.0,4,Strength Training,2,Fitness,http://images.acmesports.sports/Elevation+Training+Mask+2.0
+364,Total Gym 1400,4,Strength Training,2,Fitness,http://images.acmesports.sports/Total+Gym+1400
+226,Bowflex SelectTech 1090 Dumbbells,4,Strength Training,2,Fitness,http://images.acmesports.sports/Bowflex+SelectTech+1090+Dumbbells
+208,SOLE E35 Elliptical,3,Cardio Equipment,2,Fitness,http://images.acmesports.sports/SOLE+E35+Elliptical
+627,Under Armour Girls' Toddler Spine Surge Runni,5,Running Shoes,3,Footwear,http://images.acmesports.sports/Under+Armour+Girls%27+Toddler+Spine+Surge+Running+Shoe
+278,Under Armour Men's Compression EV SL Slide,9,Slides & Sandals,3,Footwear,http://images.acmesports.sports/Under+Armour+Men%27s+Compression+EV+SL+Slide
+249,Under Armour Women's Micro G Skulpt Running S,5,Running Shoes,3,Footwear,http://images.acmesports.sports/Under+Armour+Women%27s+Micro+G+Skulpt+Running+Shoe
+191,Nike Men's Free 5.0+ Running Shoe,5,Running Shoes,3,Footwear,http://images.acmesports.sports/Nike+Men%27s+Free+5.0%2B+Running+Shoe
+44,adidas Men's F10 Messi TRX FG Soccer Cleat,6,Soccer Cleats,3,Footwear,http://images.acmesports.sports/adidas+Men%27s+F10+Messi+TRX+FG+Soccer+Cleat
+251,Brooks Women's Ghost 6 Running Shoe,5,Running Shoes,3,Footwear,http://images.acmesports.sports/Brooks+Women%27s+Ghost+6+Running+Shoe
+403,Nike Men's CJ Elite 2 TD Football Cleat,7,Football Cleats,3,Footwear,http://images.acmesports.sports/Nike+Men%27s+CJ+Elite+2+TD+Football+Cleat
+116,Nike Men's Comfort 2 Slide,9,Slides & Sandals,3,Footwear,http://images.acmesports.sports/Nike+Men%27s+Comfort+2+Slide
+273,Under Armour Kids' Mercenary Slide,9,Slides & Sandals,3,Footwear,http://images.acmesports.sports/Under+Armour+Kids%27+Mercenary+Slide
+282,Under Armour Women's Ignite PIP VI Slide,9,Slides & Sandals,3,Footwear,http://images.acmesports.sports/Under+Armour+Women%27s+Ignite+PIP+VI+Slide
+359,Nike Men's Free TR 5.0 TB Training Shoe,5,Running Shoes,3,Footwear,http://images.acmesports.sports/Nike+Men%27s+Free+TR+5.0+TB+Training+Shoe
+276,Under Armour Women's Ignite Slide,9,Slides & Sandals,3,Footwear,http://images.acmesports.sports/Under+Armour+Women%27s+Ignite+Slide
+37,adidas Kids' F5 Messi FG Soccer Cleat,6,Soccer Cleats,3,Footwear,http://images.acmesports.sports/adidas+Kids%27+F5+Messi+FG+Soccer+Cleat
+78,Nike Kids' Grade School KD VI Basketball Shoe,8,Basketball Shoes,3,Footwear,http://images.acmesports.sports/Nike+Kids%27+Grade+School+KD+VI+Basketball+Shoe
+258,Nike Women's Free 5.0 TR FIT PRT 4 Training S,5,Running Shoes,3,Footwear,http://images.acmesports.sports/Nike+Women%27s+Free+5.0+TR+FIT+PRT+4+Training+Shoe
+625,Nike Men's Kobe IX Elite Low Basketball Shoe,8,Basketball Shoes,3,Footwear,http://images.acmesports.sports/Nike+Men%27s+Kobe+IX+Elite+Low+Basketball+Shoe
+19,Nike Men's Fingertrap Max Training Shoe,5,Running Shoes,3,Footwear,http://images.acmesports.sports/Nike+Men%27s+Fingertrap+Max+Training+Shoe
+743,Ogio Race Golf Shoes,11,Golf Shoes,5,Golf,http://images.acmesports.sports/Ogio+Race+Golf+Shoes
+666,Merrell Men's All Out Flash Trail Running Sho,5,Running Shoes,3,Footwear,http://images.acmesports.sports/Merrell+Men%27s+All+Out+Flash+Trail+Running+Shoe
+652,Merrell Women's Grassbow Sport Waterproof Hik,10,Hiking Footwear,3,Footwear,http://images.acmesports.sports/Merrell+Women%27s+Grassbow+Sport+Waterproof+Hiking+Shoe
+647,Merrell Women's Siren Mid Waterproof Hiking B,10,Hiking Footwear,3,Footwear,http://images.acmesports.sports/Merrell+Women%27s+Siren+Mid+Waterproof+Hiking+Boot
+646,Merrell Women's Grassbow Sport Hiking Shoe,10,Hiking Footwear,3,Footwear,http://images.acmesports.sports/Merrell+Women%27s+Grassbow+Sport+Hiking+Shoe
+642,Columbia Men's PFG Anchor Tough T-Shirt,12,Men's Apparel,4,Apparel,http://images.acmesports.sports/Columbia+Men%27s+PFG+Anchor+Tough+T-Shirt
+567,adidas Men's Germany Black Crest Away Tee,12,Men's Apparel,4,Apparel,http://images.acmesports.sports/adidas+Men%27s+Germany+Black+Crest+Away+Tee
+564,Nike Men's Deutschland Weltmeister Winners Bl,12,Men's Apparel,4,Apparel,http://images.acmesports.sports/Nike+Men%27s+Deutschland+Weltmeister+Winners+Black+T-Shirt
+1363,Summer dresses,13,Women's Apparel,4,Apparel,http://images.acmesports.sports/Summer+dresses
+1357,Men's gala suit,12,Men's Apparel,4,Apparel,http://images.acmesports.sports/Men+gala+suit
+565,adidas Youth Germany Black/Red Away Match Soc,14,Kids' Apparel,4,Apparel,http://images.acmesports.sports/adidas+Youth+Germany+Black%2FRed+Away+Match+Soccer+Jersey
+572,TYR Boys' Team Digi Jammer,14,Kids' Apparel,4,Apparel,http://images.acmesports.sports/TYR+Boys%27+Team+Digi+Jammer
+172,Nike Women's Tempo Shorts,13,Women's Apparel,4,Apparel,http://images.acmesports.sports/Nike+Women%27s+Tempo+Shorts
+93,Under Armour Men's Tech II T-Shirt,12,Men's Apparel,4,Apparel,http://images.acmesports.sports/Under+Armour+Men%27s+Tech+II+T-Shirt
+1347,Baby sweater,14,Kids' Apparel,4,Apparel,http://images.acmesports.sports/Baby+sweater
+135,Nike Dri-FIT Crew Sock 6 Pack,12,Men's Apparel,4,Apparel,http://images.acmesports.sports/Nike+Dri-FIT+Crew+Sock+6+Pack
+134,Nike Women's Legend V-Neck T-Shirt,13,Women's Apparel,4,Apparel,http://images.acmesports.sports/Nike+Women%27s+Legend+V-Neck+T-Shirt
+502,Nike Men's Dri-FIT Victory Golf Polo,15,Golf Apparel,5,Golf,http://images.acmesports.sports/Nike+Men%27s+Dri-FIT+Victory+Golf+Polo
+730,LIJA Women's Argyle Golf Polo,15,Golf Apparel,5,Golf,http://images.acmesports.sports/LIJA+Women%27s+Argyle+Golf+Polo
+728,LIJA Women's Eyelet Sleeveless Golf Polo,15,Golf Apparel,5,Golf,http://images.acmesports.sports/LIJA+Women%27s+Eyelet+Sleeveless+Golf+Polo
+725,LIJA Women's Button Golf Dress,15,Golf Apparel,5,Golf,http://images.acmesports.sports/LIJA+Women%27s+Button+Golf+Dress
+724,LIJA Women's Mid-Length Panel Golf Shorts,15,Golf Apparel,5,Golf,http://images.acmesports.sports/LIJA+Women%27s+Mid-Length+Panel+Golf+Shorts
+828,Bridgestone e6 Straight Distance NFL San Dieg,16,Golf Balls,5,Golf,http://images.acmesports.sports/Bridgestone+e6+Straight+Distance+NFL+San+Diego+Chargers...
+818,Titleist Pro V1x Golf Balls,16,Golf Balls,5,Golf,http://images.acmesports.sports/Titleist+Pro+V1x+Golf+Balls
+825,Bridgestone e6 Straight Distance NFL Tennesse,16,Golf Balls,5,Golf,http://images.acmesports.sports/Bridgestone+e6+Straight+Distance+NFL+Tennessee+Titans+Golf...
+822,Titleist Pro V1x High Numbers Golf Balls,16,Golf Balls,5,Golf,http://images.acmesports.sports/Titleist+Pro+V1x+High+Numbers+Golf+Balls
+835,Bridgestone e6 Straight Distance NFL Carolina,16,Golf Balls,5,Golf,http://images.acmesports.sports/Bridgestone+e6+Straight+Distance+NFL+Carolina+Panthers+Golf...
+823,Titleist Pro V1x High Numbers Personalized Go,16,Golf Balls,5,Golf,http://images.acmesports.sports/Titleist+Pro+V1x+High+Numbers+Personalized+Golf+Balls
+821,Titleist Pro V1 High Numbers Personalized Gol,16,Golf Balls,5,Golf,http://images.acmesports.sports/Titleist+Pro+V1+High+Numbers+Personalized+Golf+Balls
+804,Glove It Women's Imperial Golf Glove,17,Golf Gloves,5,Golf,http://images.acmesports.sports/Glove+It+Women%27s+Imperial+Golf+Glove
+810,Glove It Women's Mod Oval Golf Glove,17,Golf Gloves,5,Golf,http://images.acmesports.sports/Glove+It+Women%27s+Mod+Oval+Golf+Glove
+797,Hirzl Women's Soffft Flex Golf Glove,17,Golf Gloves,5,Golf,http://images.acmesports.sports/Hirzl+Women%27s+Soffft+Flex+Golf+Glove
+793,Hirzl Women's Hybrid Golf Glove,17,Golf Gloves,5,Golf,http://images.acmesports.sports/Hirzl+Women%27s+Hybrid+Golf+Glove
+792,Hirzl Men's Hybrid Golf Glove,17,Golf Gloves,5,Golf,http://images.acmesports.sports/Hirzl+Men%27s+Hybrid+Golf+Glove
+917,Glove It Women's Mod Oval 3-Zip Carry All Gol,18,Golf Bags & Carts,5,Golf,http://images.acmesports.sports/Glove+It+Women%27s+Mod+Oval+3-Zip+Carry+All+Golf+Bag
+786,TaylorMade 2014 Purelite Stand Bag,18,Golf Bags & Carts,5,Golf,http://images.acmesports.sports/TaylorMade+2014+Purelite+Stand+Bag
+777,Bag Boy M330 Push Cart,18,Golf Bags & Carts,5,Golf,http://images.acmesports.sports/Bag+Boy+M330+Push+Cart
+773,Titleist Small Wheeled Travel Cover,18,Golf Bags & Carts,5,Golf,http://images.acmesports.sports/Titleist+Small+Wheeled+Travel+Cover
+768,Titleist Club Glove Travel Cover,18,Golf Bags & Carts,5,Golf,http://images.acmesports.sports/Titleist+Club+Glove+Travel+Cover
+893,Team Golf Pittsburgh Steelers Putter Grip,20,Golf Accessories,5,Golf,http://images.acmesports.sports/Team+Golf+Pittsburgh+Steelers+Putter+Grip
+924,Glove It Urban Brick Golf Towel,20,Golf Accessories,5,Golf,http://images.acmesports.sports/Glove+It+Urban+Brick+Golf+Towel
+905,Team Golf Texas Longhorns Putter Grip,20,Golf Accessories,5,Golf,http://images.acmesports.sports/Team+Golf+Texas+Longhorns+Putter+Grip
+885,Team Golf St. Louis Cardinals Putter Grip,20,Golf Accessories,5,Golf,http://images.acmesports.sports/Team+Golf+St.+Louis+Cardinals+Putter+Grip
+906,Team Golf Tennessee Volunteers Putter Grip,20,Golf Accessories,5,Golf,http://images.acmesports.sports/Team+Golf+Tennessee+Volunteers+Putter+Grip
+886,Team Golf San Francisco Giants Putter Grip,20,Golf Accessories,5,Golf,http://images.acmesports.sports/Team+Golf+San+Francisco+Giants+Putter+Grip
+926,Glove It Imperial Golf Towel,20,Golf Accessories,5,Golf,http://images.acmesports.sports/Glove+It+Imperial+Golf+Towel
+897,Team Golf New England Patriots Putter Grip,20,Golf Accessories,5,Golf,http://images.acmesports.sports/Team+Golf+New+England+Patriots+Putter+Grip
+778,Bag Boy Beverage Holder,20,Golf Accessories,5,Golf,http://images.acmesports.sports/Bag+Boy+Beverage+Holder
+775,Clicgear 8.0 Shoe Brush,20,Golf Accessories,5,Golf,http://images.acmesports.sports/Clicgear+8.0+Shoe+Brush
+771,Clicgear Rovic Cooler Bag,20,Golf Accessories,5,Golf,http://images.acmesports.sports/Clicgear+Rovic+Cooler+Bag
+715,TaylorMade Women's RBZ SL Rescue,19,Golf Clubs,5,Golf,http://images.acmesports.sports/TaylorMade+Women%27s+RBZ+SL+Rescue
+705,Cleveland Golf Women's 588 RTX CB Satin Chrom,19,Golf Clubs,5,Golf,http://images.acmesports.sports/Cleveland+Golf+Women%27s+588+RTX+CB+Satin+Chrome+Wedge
+703,Top Flite Women's 2014 XL Hybrid,19,Golf Clubs,5,Golf,http://images.acmesports.sports/Top+Flite+Women%27s+2014+XL+Hybrid
+691,MDGolf Pittsburgh Penguins Putter,19,Golf Clubs,5,Golf,http://images.acmesports.sports/MDGolf+Pittsburgh+Penguins+Putter
+677,TaylorMade White Smoke IN-12 Putter,19,Golf Clubs,5,Golf,http://images.acmesports.sports/TaylorMade+White+Smoke+IN-12+Putter
+671,Cleveland Golf Collegiate My Custom Wedge 588,19,Golf Clubs,5,Golf,http://images.acmesports.sports/Cleveland+Golf+Collegiate+My+Custom+Wedge+588+RTX+Forged...
+977,ENO Atlas Hammock Straps,21,Camping & Hiking,6,Outdoors,http://images.acmesports.sports/ENO+Atlas+Hammock+Straps
+981,The North Face Women's Recon Backpack,21,Camping & Hiking,6,Outdoors,http://images.acmesports.sports/The+North+Face+Women%27s+Recon+Backpack
+982,insta-bed Neverflat Air Mattress,21,Camping & Hiking,6,Outdoors,http://images.acmesports.sports/insta-bed+Neverflat+Air+Mattress
+235,Under Armour Hustle Storm Medium Duffle Bag,21,Camping & Hiking,6,Outdoors,http://images.acmesports.sports/Under+Armour+Hustle+Storm+Medium+Duffle+Bag
+957,Diamondback Women's Serene Classic Comfort Bi,24,Bikes & Accessories,6,Outdoors,http://images.acmesports.sports/Diamondback+Women%27s+Serene+Classic+Comfort+Bike+2014
+58,Diamondback Boys' Insight 24 Performance Hybr,24,Bikes & Accessories,6,Outdoors,http://images.acmesports.sports/Diamondback+Boys%27+Insight+24+Performance+Hybrid+Bike+2014
+61,Diamondback Girls' Clarity 24 Hybrid Bike 201,24,Bikes & Accessories,6,Outdoors,http://images.acmesports.sports/Diamondback+Girls%27+Clarity+24+Hybrid+Bike+2014
+216,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,24,Bikes & Accessories,6,Outdoors,http://images.acmesports.sports/Yakima+DoubleDown+Ace+Hitch+Mount+4-Bike+Rack
+1004,Field & Stream Sportsman 16 Gun Fire Safe,25,Hunting & Shooting,6,Outdoors,http://images.acmesports.sports/Field+%26+Stream+Sportsman+16+Gun+Fire+Safe
+127,Stiga Master Series ST3100 Competition Indoor,23,Indoor/Outdoor Games,6,Outdoors,http://images.acmesports.sports/Stiga+Master+Series+ST3100+Competition+Indoor+Table+Tennis...
+35,adidas Brazuca 2014 Official Match Ball,23,Indoor/Outdoor Games,6,Outdoors,http://images.acmesports.sports/adidas+Brazuca+2014+Official+Match+Ball
+1073,Pelican Sunstream 100 Kayak,22,Water Sports,6,Outdoors,http://images.acmesports.sports/Pelican+Sunstream+100+Kayak
+1059,Pelican Maverick 100X Kayak,22,Water Sports,6,Outdoors,http://images.acmesports.sports/Pelican+Maverick+100X+Kayak
+1014,O'Brien Men's Neoprene Life Vest,22,Water Sports,6,Outdoors,http://images.acmesports.sports/O%27Brien+Men%27s+Neoprene+Life+Vest
+1346,Sports Books ,26,Books,8,Book Shop,http://images.acmesports.sports/Sports+Books
+1354,DVDs ,27,Music & Movies,9,Discs Shop,http://images.acmesports.sports/DVDs
+1348,CDs of rock,27,Music & Movies,9,Discs Shop,http://images.acmesports.sports/CDs+of+rock
+1358,Rock music,27,Music & Movies,9,Discs Shop,http://images.acmesports.sports/Rock+music
+1362,Fighting video games,28,Video Games,9,Discs Shop,http://images.acmesports.sports/Fighting+video+games
+1353,Porcelain crafts,30,Crafts,7,Fan Shop,http://images.acmesports.sports/Porcelain+crafts
+1355,Lawn mower,29,Home & Garden,6,Outdoors,http://images.acmesports.sports/Lawn+mower
+1356,First aid kit,32,Health and Beauty,12,Health and Beauty,http://images.acmesports.sports/First+aid+kit
+1359,Adult dog supplies,31,Pet Supplies,11,Pet Shop,http://images.acmesports.sports/Adult+dog+supplies
+1350,Children's heaters,33,Toys,7,Fan Shop,http://images.acmesports.sports/Children+heaters
+1361,Toys ,33,Toys,7,Fan Shop,http://images.acmesports.sports/Toys 
